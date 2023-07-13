@@ -20,7 +20,7 @@ To install the app, clone this GitHub repo down to your local machine and run np
 
 # Usage
 
-This app can be used to seed data, call data from the api, and potentially, connected with a front-end to create a full-stack app.
+This app can be used to seed data, call data from the api, and potentially, connected with a front-end to create a full-stack app. Here is a video demonstrating the testing of the routes using Insomnia: chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/88d5a526-1829-402b-ydcf-8f52ffda0549
 
 # License
 
